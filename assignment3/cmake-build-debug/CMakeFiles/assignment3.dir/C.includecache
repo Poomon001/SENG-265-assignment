@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Poomon/Desktop/Clion assignment/seng265/assignment3/list.h
+
+/cygdrive/c/Users/Poomon/Desktop/Clion assignment/seng265/assignment3/senjify3.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+list.h
+/cygdrive/c/Users/Poomon/Desktop/Clion assignment/seng265/assignment3/list.h
+ctype.h
+-
+
